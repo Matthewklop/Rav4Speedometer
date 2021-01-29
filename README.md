@@ -1,7 +1,7 @@
 # Rav4Speedometer
 Replaces the 2016-2017 Cruise set speed number and make it the current speed number
 This program is specifically for the 2017 rav4 becuase some reason toyota thought it would be a good idea to remove the digital speedometer.
-What this does is replaces the cruise set speed (just the number on the screen not the actual cruise speed) to the current MPH.
+What this does is replaces the cruise set speed (just the number on the screen not the actual cruise speed) to the current MPH. This program was designed of the raspberry pi with the canbus hat. This code can probably be altered to fit your need of other projects.
 You will have to connect this to the back of your cluster, its the two can wires in the middle of the connector (white,green)
 run with
 ///////////////--------------/////////////
